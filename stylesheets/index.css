@@ -4,7 +4,7 @@ the whole document */
 .main-title
 {
     background: red;
-    padding: 10px, 33px, 12px, 6px;
+    padding: 10px, 33px, 10px, 6px;
 }
 
 .fancy-font, .nav-bar
@@ -13,3 +13,31 @@ the whole document */
     color: rgba(00, 00, 00, 0.6);
 }
 
+.nav-bar li
+{
+    color: green;
+    list-style: none;
+}
+
+.nav-bar ul
+{
+    padding-left: 0;
+}
+
+.main-image
+{
+    width: 302px;
+}
+.main-image img
+{
+    width: 100%;
+}
+
+.hero-image
+{
+    background-image: url(../images/apple_background.jpg);
+    height: 300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
