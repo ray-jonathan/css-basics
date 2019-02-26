@@ -4,6 +4,7 @@ the whole document */
 .main-title
 {
     background: red;
+    padding: 10px, 33px, 12px, 6px;
 }
 
 .fancy-font, .nav-bar
