@@ -3,8 +3,8 @@ the whole document */
 
 .main-title
 {
-    background: red;
-    padding: 10px, 33px, 10px, 6px;
+    background: rgba(255,0,0,0.25);
+    margin-top: 20px;
 }
 
 .fancy-font, .nav-bar
@@ -37,7 +37,8 @@ the whole document */
 {
     background-image: url(../images/apple_background.jpg);
     height: 300px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    padding-top: 20px;
 }
